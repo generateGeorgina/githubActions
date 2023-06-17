@@ -1,4 +1,3 @@
-
 name: My GitHub Action
 on:
   push:
